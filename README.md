@@ -1,24 +1,34 @@
 # Hey 👋 I'm Jude Pinkman
 
-![banner]<img width="1920" height="1080" alt="1379294" src="https://github.com/user-attachments/assets/261b7276-43bc-4283-aa85-253db89df99f" />
+<img width="1920" height="1080" alt="1387930" src="https://github.com/user-attachments/assets/91a6f06d-0cc9-49d7-87fb-fd0d4c189a7c" />
 
 
 ### I'm Jude — pre-final year B.Tech (IT) | Cybersecurity enthusiast 🔒 | Full-stack dev 🛠️ | ML explorer 🤖
 
-Hi! I'm currently in my prefinal year of B.Tech (Information Technology). I'm primarily focused on cybersecurity, but I love building full-stack apps and experimenting with machine learning. I also have a huge love for anime and cool visuals — expect anime wallpapers, pixel-art vibes, and neon-synthwave aesthetics across my projects.
+Hi! I'm currently in my pre-final year of B.Tech (Information Technology). I focus on cybersecurity but I also love building full-stack apps and experimenting with machine learning. I collect anime art and like neon / synthwave aesthetics — expect visually styled project banners and fun README vibes.
+
+---
+
+<!-- Socials / Contact -->
+### 🔗 Connect with me
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.example)
+
+Discord handle: `jude_pinkman` (replace with your tag or link to your server/profile)
 
 ---
 
 ### 🔭 Currently
 - Preparing for advanced CTFs and security competitions (Web, Crypto, Recon).
-- Building a full-stack app integrating ML-powered features.
-- Learning low-level OS internals and exploit mitigation techniques.
+- Building a full-stack app with ML features.
+- Learning OS internals, exploit mitigations and secure architecture patterns.
 
-### 🌟 A few things that make me "cool"
-- I combine security-first thinking with practical full-stack solutions.
-- I hack on small ML projects to automate boring parts of pentesting and data analysis.
-- I collect anime wallpapers and make pixel-art banners for projects.
-- I enjoy mentoring juniors on secure coding and web app defenses.
+### 🌟 Quick flexes (extra cool stuff)
+- I turn anime art into project banners and theme guides.
+- I build small ML tools that automate recon and triage for pentests.
+- I make synthwave / neon thumbnails for projects for that cyberpunk vibe.
+- Open to collabs on security tooling, full-stack side projects, and creative ML experiments.
 
 ---
 
@@ -27,9 +37,7 @@ Hi! I'm currently in my prefinal year of B.Tech (Information Technology). I'm pr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Kali](https://img.shields.io/badge/-Kali-1A237E?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
@@ -45,49 +53,36 @@ Hi! I'm currently in my prefinal year of B.Tech (Information Technology). I'm pr
 
 ---
 
-### 💼 Projects (pin your favorites)
-- Project A — Secure web app / bug-bounty tooling (link)
-- Project B — ML model for anomaly detection (link)
-- Project C — Full-stack app with neat UI (link)
+### 💼 Featured Projects (pin your favorites)
+- Secure Web App — web-app-secure (short description)  
+- Anomaly Detector — ml-anom (short description)  
+- UI / Fullstack — neon-shop (short description)
 
-(Replace these with your actual pinned repos — I'll help format them if you want.)
+(Replace these with pinned repo names and links — I'll help format.)
 
 ---
 
 ### 🎧 Currently vibing to
-- Anime OSTs, synthwave playlists, and lo-fi beats while coding.
+Anime OSTs, synthwave, and lo-fi while coding.
 
 ### 🧩 Fun facts
-- I anime-ify my project banners.
-- Favourite genres: cyberpunk, psychological, slice-of-life.
-- Always down for team-ups on security tooling and web apps.
+- I anime-ify my project banners and thumbnails.
+- Favorite anime genres: cyberpunk, psychological, slice-of-life.
+- I help juniors with secure coding and bug bounty basics.
 
 ---
 
-### 📫 Contact / Links
-[![Website](https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.example)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Resume](https://img.shields.io/badge/-Resume-4A4A4A?style=for-the-badge&logo=adobe)](https://link-to-resume.example)
+### ✨ Want it more anime-fied?
+- Send me 1–3 anime images (GIFs or PNGs) and I’ll replace the banner and footer with them.
+- Want a neon color theme? Tell me your preferred hex color (e.g., #00F0FF) and I’ll update badge colors and banners.
 
 ---
 
-### ✨ Want it anime-fied?
-Replace the top banner URL with any anime banner or GIF. Example sources:
-- Your own hosted image (best): https://raw.githubusercontent.com/youruser/yourrepo/main/banner.png
-- Giphy / Imgur GIFs
-- Art from your favorites (respect copyright — link images you have rights to)
-
-Example banner line (replace URL):
-![banner](https://media.giphy.com/media/3o6ZsX2O1W5a2aG8kY/giphy.gif)
-
----
-
-![footer-anime](https://via.placeholder.com/900x120.png?text=Anime+Footer+Here)
+![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=jude-pinkman.jude-pinkman)
 
 <!--
-Tips:
-- Create a repo called "jude-pinkman" (exactly your username) and add this README.md to enable the profile README.
-- To get live GitHub cards working, make sure your username is correct in the image URLs above.
-- Tell me which anime images/GIFs you want and I will update the README with actual links and color theme.
+How to use:
+1. Create a repository named exactly: `jude-pinkman` (same as your GitHub username).
+2. Add this README.md to that repository's root and GitHub will show it on your profile.
+3. Replace the placeholder socials links and Discord handle with your actual links.
 -->
