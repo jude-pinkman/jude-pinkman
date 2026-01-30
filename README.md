@@ -1,3 +1,4 @@
+![8881418](https://github.com/user-attachments/assets/de15757d-07a9-4642-b54f-2874e53e6bf0)
 # Hey 👋 I'm Jude Pinkman
 
 ![anime-banner](https://via.placeholder.com/1200x300.png?text=Anime+Banner+Here)  
