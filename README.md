@@ -43,10 +43,18 @@ Discord handle: `yourname#1234` (replace with your tag or link to your server/pr
 ---
 
 ### 📈 GitHub Stats
-<p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jude-pinkman&show_icons=true&theme=radical" alt="Jude's GitHub stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jude-pinkman&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<!-- GitHub Stats with GIF background (Option A - transparent cards) -->
+<div align="center"
+     style="background: url('https://wallpaperaccess.com/full/8881418.gif') center/cover no-repeat; padding:18px; border-radius:12px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jude-pinkman&show_icons=true&theme=transparent"
+    alt="Jude's GitHub stats"
+    style="max-width:100%; display:inline-block; margin-right:18px;" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jude-pinkman&layout=compact&theme=transparent"
+    alt="Top Languages"
+    style="max-width:100%; display:inline-block;" />
+</div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jude-pinkman&theme=dark-green)
 
