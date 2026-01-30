@@ -1,6 +1,7 @@
 # Hey 👋 I'm Jude Pinkman
 
-![banner](https://via.placeholder.com/1200x300.png?text=Your+Anime+Banner+Here)  
+![banner]<img width="1920" height="1080" alt="1379294" src="https://github.com/user-attachments/assets/261b7276-43bc-4283-aa85-253db89df99f" />
+
 
 ### I'm Jude — pre-final year B.Tech (IT) | Cybersecurity enthusiast 🔒 | Full-stack dev 🛠️ | ML explorer 🤖
 
