@@ -1,3 +1,4 @@
+![Header GIF](https://wallpaperaccess.com/full/8881418.gif)
 # 💫 About Me
 
 Hi, I’m **Jude Sahai** (online name: **Jude Pinkman**)  
