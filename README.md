@@ -84,7 +84,7 @@ Anime OSTs, synthwave, and lo-fi while coding.
 
 ---
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM253dDR3OGwzbm1rMnd0Mmw4MWlwbW1vYzU4cDJpYzBvNGNjeTQwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UOAcP2kW1ZA6zGvfR/giphy.gif" alt="Neon footer" style="width:100%; max-height:160px; object-fit:cover; border-radius:12px; margin-top:18px;" />
+<img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM253dDR3OGwzbm1rMnd0Mmw4MWlwbW1vYzU4cDJpYzBvNGNjeTQwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UOAcP2kW1ZA6zGvfR/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTk0dWx4dmdiNnZuM3Ewenk4c2EyN2J0NHNnNnBmMHBveDFocmpwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif)" alt="Neon footer" style="width:100%; max-height:160px; object-fit:cover; border-radius:12px; margin-top:18px;" />
 
 ![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=jude-pinkman.jude-pinkman)
 
