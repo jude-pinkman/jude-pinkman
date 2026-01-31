@@ -1,7 +1,6 @@
-![8881418](https://github.com/user-attachments/assets/de15757d-07a9-4642-b54f-2874e53e6bf0)
 # Hey 👋 I'm Jude Pinkman
 
-![anime-banner](https://via.placeholder.com/1200x300.png?text=Anime+Banner+Here)  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ4NHc4MXd6bDAyd2J4eTk0Zzgzcm12azFhaDY5czBvdjM2czI2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NVxt4fhn5NZ4A2D29G/200.gif" alt="Neon banner" style="width:100%; max-height:320px; object-fit:cover; border-radius:12px; box-shadow: 0 8px 30px rgba(0,240,255,0.12); margin-bottom:18px;" />
 
 ### I'm Jude — pre-final year B.Tech (IT) | Cybersecurity enthusiast 🔒 | Full-stack dev 🛠️ | ML explorer 🤖
 
@@ -11,9 +10,9 @@ Hi! I'm currently in my pre-final year of B.Tech (Information Technology). I foc
 
 <!-- Socials / Contact -->
 ### 🔗 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.example)
+[![Discord](https://img.shields.io/badge/Discord-00F0FF?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-00F0FF?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/your-instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/your-linkedin) [![Twitter](https://img.shields.io/badge/Twitter-00F0FF?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/your-twitter)  
+[![Mail](https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com) [![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://your-portfolio.example)
 
 Discord handle: `yourname#1234` (replace with your tag or link to your server/profile)
 
@@ -33,20 +32,19 @@ Discord handle: `yourname#1234` (replace with your tag or link to your server/pr
 ---
 
 ### 🧰 Skills & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kali](https://img.shields.io/badge/-Kali-1A237E?style=for-the-badge&logo=kali-linux&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-00F0FF?style=for-the-badge&logo=python&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-00F0FF?style=for-the-badge&logo=javascript&logoColor=black)]
+[![Node.js](https://img.shields.io/badge/-Node.js-00F0FF?style=for-the-badge&logo=node.js&logoColor=white)]
+[![React](https://img.shields.io/badge/-React-00F0FF?style=for-the-badge&logo=react&logoColor=black)]
+[![Docker](https://img.shields.io/badge/-Docker-00F0FF?style=for-the-badge&logo=docker&logoColor=white)]
+[![Kali](https://img.shields.io/badge/-Kali-00F0FF?style=for-the-badge&logo=kali-linux&logoColor=white)]
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-00F0FF?style=for-the-badge&logo=tensorflow&logoColor=white)]
 
 ---
 
 ### 📈 GitHub Stats
-<!-- GitHub Stats with GIF background (Option A - transparent cards) -->
 <div align="center"
-     style="background: url('https://wallpaperaccess.com/full/8881418.gif') center/cover no-repeat; padding:18px; border-radius:12px;">
+     style="background: linear-gradient(135deg, rgba(0,240,255,0.06), rgba(255,0,255,0.03)); padding:18px; border-radius:12px;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=jude-pinkman&show_icons=true&theme=transparent"
     alt="Jude's GitHub stats"
@@ -82,9 +80,11 @@ Anime OSTs, synthwave, and lo-fi while coding.
 
 ### ✨ Want it more anime-fied?
 - Send me 1–3 anime images (GIFs or PNGs) and I’ll replace the banner and footer with them.
-- Want a neon color theme? Tell me your preferred hex color (e.g., #00F0FF) and I’ll update badge colors and banners.
+- Want a different neon color? Tell me your preferred hex color (e.g., `#00F0FF`) and I’ll update badge colors and banners.
 
 ---
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM253dDR3OGwzbm1rMnd0Mmw4MWlwbW1vYzU4cDJpYzBvNGNjeTQwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UOAcP2kW1ZA6zGvfR/giphy.gif" alt="Neon footer" style="width:100%; max-height:160px; object-fit:cover; border-radius:12px; margin-top:18px;" />
 
 ![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=jude-pinkman.jude-pinkman)
 
