@@ -86,7 +86,7 @@ Anime OSTs, synthwave, and lo-fi while coding.
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTk0dWx4dmdiNnZuM3Ewenk4c2EyN2J0NHNnNnBmMHBveDFocmpwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif" alt="Neon footer" style="width:100%; max-height:160px; object-fit:cover; border-radius:12px; margin-top:18px;" />
 
-![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=jude-pinkman.jude-pinkman)
+![Visitors](https://img.shields.io/badge/Visitors--00F0FF?style=for-the-badge&logo=github&logoColor=white
 
 <!--
 How to use:
