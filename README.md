@@ -1,96 +1,65 @@
-# Hey 👋 I'm Jude Pinkman
+# 💫 About Me
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ4NHc4MXd6bDAyd2J4eTk0Zzgzcm12azFhaDY5czBvdjM2czI2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NVxt4fhn5NZ4A2D29G/200.gif" alt="Neon banner" style="width:100%; max-height:320px; object-fit:cover; border-radius:12px; box-shadow: 0 8px 30px rgba(0,240,255,0.12); margin-bottom:18px;" />
+Hi, I’m **Jude Sahai** (online name: **Jude Pinkman**)  
 
-### I'm Jude — pre-final year B.Tech (IT) | Cybersecurity enthusiast 🔒 | Full-stack dev 🛠️ | ML explorer 🤖
-
-Hi! I'm currently in my pre-final year of B.Tech (Information Technology). I focus on cybersecurity but I also love building full-stack apps and experimenting with machine learning. I collect anime art and like neon / synthwave aesthetics — expect visually styled project banners and fun README vibes.
+💻 Tech enthusiast | 🐧 Linux user | 🎮 Gamer
 
 ---
 
-<!-- Socials / Contact -->
-### 🔗 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-00F0FF?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-00F0FF?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/your-instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/your-linkedin) [![Twitter](https://img.shields.io/badge/Twitter-00F0FF?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/your-twitter)  
-[![Mail](https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com) [![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://your-portfolio.example)
-
-Discord handle: `yourname#1234` (replace with your tag or link to your server/profile)
+## 🔭 I’m currently working on
+- Linux security projects (exploitation & system hardening)  
+- Hands-on cybersecurity labs and CTF-style challenges  
+- Improving command-line and server-side Linux skills
 
 ---
 
-### 🔭 Currently
-- Preparing for advanced CTFs and security competitions (Web, Crypto, Recon).
-- Building a full-stack app with ML features.
-- Learning OS internals, exploit mitigations and secure architecture patterns.
-
-### 🌟 Quick flexes (extra cool stuff)
-- I turn anime art into project banners and theme guides.
-- I build small ML tools that automate recon and triage for pentests.
-- I make synthwave / neon thumbnails for projects for that cyberpunk vibe.
-- Open to collabs on security tooling, full-stack side projects, and creative ML experiments.
+## 👯 I’m looking to collaborate on
+- Cybersecurity projects & CTF teams  
+- Linux-based tools or security automation  
+- Beginner–intermediate open-source tech projects
 
 ---
 
-### 🧰 Skills & Tools
-[![Python](https://img.shields.io/badge/-Python-00F0FF?style=for-the-badge&logo=python&logoColor=white)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-00F0FF?style=for-the-badge&logo=javascript&logoColor=black)]
-[![Node.js](https://img.shields.io/badge/-Node.js-00F0FF?style=for-the-badge&logo=node.js&logoColor=white)]
-[![React](https://img.shields.io/badge/-React-00F0FF?style=for-the-badge&logo=react&logoColor=black)]
-[![Docker](https://img.shields.io/badge/-Docker-00F0FF?style=for-the-badge&logo=docker&logoColor=white)]
-[![Kali](https://img.shields.io/badge/-Kali-00F0FF?style=for-the-badge&logo=kali-linux&logoColor=white)]
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-00F0FF?style=for-the-badge&logo=tensorflow&logoColor=white)]
+## 🤝 I’m looking for help with
+- Advanced Linux hardening & kernel-level security  
+- Real-world cybersecurity workflows  
+- Building impactful open-source projects
 
 ---
 
-### 📈 GitHub Stats
-<div align="center"
-     style="background: linear-gradient(135deg, rgba(0,240,255,0.06), rgba(255,0,255,0.03)); padding:18px; border-radius:12px;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jude-pinkman&show_icons=true&theme=transparent"
-    alt="Jude's GitHub stats"
-    style="max-width:100%; display:inline-block; margin-right:18px;" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jude-pinkman&layout=compact&theme=transparent"
-    alt="Top Languages"
-    style="max-width:100%; display:inline-block;" />
-</div>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jude-pinkman&theme=dark-green)
+## 🌱 I’m currently learning
+- Cybersecurity fundamentals & practical defense  
+- Networking & system security  
+- Machine learning basics  
+- Better scripting and automation on Linux
 
 ---
 
-### 💼 Featured Projects (pin your favorites)
-- Secure Web App — web-app-secure (short description)  
-- Anomaly Detector — ml-anom (short description)  
-- UI / Fullstack — neon-shop (short description)
-
-(Replace these with pinned repo names and links — I'll help format.)
-
----
-
-### 🎧 Currently vibing to
-Anime OSTs, synthwave, and lo-fi while coding.
-
-### 🧩 Fun facts
-- I anime-ify my project banners and thumbnails.
-- Favorite anime genres: cyberpunk, psychological, slice-of-life.
-- I help juniors with secure coding and bug bounty basics.
+## 💬 Ask me about
+- Linux commands & terminal workflows  
+- Cybersecurity basics & CTFs  
+- Computers, tech trends, and troubleshooting  
+- Online games & story-driven games 🎮
 
 ---
 
-### ✨ Want it more anime-fied?
-- Send me 1–3 anime images (GIFs or PNGs) and I’ll replace the banner and footer with them.
-- Want a different neon color? Tell me your preferred hex color (e.g., `#00F0FF`) and I’ll update badge colors and banners.
+## ⚡ Fun fact
+I enjoy breaking systems ethically just to understand how to secure them better 😄
 
----
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTk0dWx4dmdiNnZuM3Ewenk4c2EyN2J0NHNnNnBmMHBveDFocmpwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif" alt="Neon footer" style="width:100%; max-height:160px; object-fit:cover; border-radius:12px; margin-top:18px;" />
 
-![Visitors](https://img.shields.io/badge/Visitors--00F0FF?style=for-the-badge&logo=github&logoColor=white)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/fMXSdzmphx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jude.pinkman_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jude-pinkman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jude_pinkman) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Jesse_Pinkman_Coder) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jude_pinkman_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PinkmanJude) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:judesahai0@gmail.com) 
 
-<!--
-How to use:
-1. Create a repository named exactly: `jude-pinkman` (same as your GitHub username).
-2. Add this README.md to that repository's root and GitHub will show it on your profile.
-3. Replace the placeholder socials links and Discord handle with your actual links.
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jude-pinkman&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jude-pinkman&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jude-pinkman&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=jude-pinkman&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔚 End
+![Fun GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBnN244am83Y21oamh3dWJpOWViMXB5ODBvbDd4YzF6YzNmbXU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vfhj19PusenfO/giphy.gif)
